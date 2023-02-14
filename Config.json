@@ -1,0 +1,4 @@
+{
+    "addMessageLambdaEndpoint": "<endpoint here>",
+    "listMessageLambdaEndpoint": "<endpoint here>"
+}
